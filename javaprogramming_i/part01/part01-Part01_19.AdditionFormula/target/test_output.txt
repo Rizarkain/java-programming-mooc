@@ -1,0 +1,1 @@
+[{"className":"AdditionFormulaTest","methodName":"correctOutputFirstExample","pointNames":["01-19"],"status":"PASSED"},{"className":"AdditionFormulaTest","methodName":"correctOutputSecondExample","pointNames":["01-19"],"status":"PASSED"},{"className":"AdditionFormulaTest","methodName":"correctOrder","pointNames":["01-19"],"status":"PASSED"}]
