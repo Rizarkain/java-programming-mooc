@@ -28,10 +28,10 @@ provided by the University of Helsinki (MOOC.fi).
 
 Each exercise is stored in its own folder following the original course structure:
 
-part01/
-part02/
-part03/
-...
+- part01/
+- part02/
+- part03/
+- ...
 
 
 ## Purpose
