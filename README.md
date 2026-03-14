@@ -10,8 +10,8 @@ provided by the University of Helsinki (MOOC.fi).
 - [x] Part 1
 - [x] Part 2
 - [x] Part 3 
-- [ ] Part 4 (in progress)
-- [ ] Part 5
+- [x] Part 4
+- [ ] Part 5 (in progress)
 - [ ] Part 6
 - [ ] Part 7
 
